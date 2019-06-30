@@ -12,4 +12,4 @@ Concepts
 h2 + p {
 	color: purple; }
 which enabled the first paragraph immediatey following the h2 attribute to have the color purple
-4)
+4)At the bottom of the index.html mainpage I utilized a 
