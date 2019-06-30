@@ -12,4 +12,9 @@ Concepts
 h2 + p {
 	color: purple; }
 which enabled the first paragraph immediatey following the h2 attribute to have the color purple  
-4)At the bottom of the index.html mainpage I utilized a 
+4)At the bottom of the index.html mainpage I utilized the "Line-Based Named Lines" Grid for a simple info footer  
+The 4 html subpages "Foodanddrink", "childrens", "festivals" and "charity" all have the same feel with varying images and text  
+5) On the subpages I created a functional nav menu in the top left hand corner of the page that allowed navigation between all 5 pages.  
+6)On the 2 colum layout of the subpages I used 2 grids, the first in the "subaside" element is a display:in-line-grid. I used only rows for this grid  
+7)the second grid in the "subsection" is a display:inline-grid (Grid auto-placement) using both rows and columns. This one also contains the ninth child to switch colors between alternating grid boxes  
+8)
